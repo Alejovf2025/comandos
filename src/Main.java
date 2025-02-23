@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Ciclismo");
         System.out.println("Videojuegos");
         System.out.println("GATO : TRUENO");
-
+        System.out.println("GATO : relampaago");
     }
 }
